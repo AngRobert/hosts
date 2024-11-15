@@ -1,5 +1,6 @@
 #!/usr/bin/bash
 
 echo salut
-echo ma ta
+echo la revedere
+
 
